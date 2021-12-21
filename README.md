@@ -3,4 +3,4 @@ When life (and quite frankly, 2020) is getting you down, bunnies still think you
 
 View the project here: https://jesstsomethoughts.github.io/befriendingbunnies/
 
-Original inspiration: validatingponies.com
+Original inspiration: Validating Ponies
